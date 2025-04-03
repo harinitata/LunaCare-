@@ -8,7 +8,7 @@ CORS(app) # Add this line
 
 
 # Configure your Gemini Pro API key
-genai.configure(api_key="AIzaSyCNfV_PPNGcUsvb7HCwha65CVqxxj1xGks") # Replace with your actual API key
+genai.configure(api_key="  ") # Replace with your actual API key
 model = genai.GenerativeModel('gemini-2.0-flash')
 
 @app.route('/friendly_chat', methods=['POST'])
