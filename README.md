@@ -1,2 +1,2 @@
 # LunaCare-
-chat bot creation for women health
+LunaCare is a web-based platform designed to empower women by providing accessible and supportive health information, focusing on an intelligent chatbot. Addressing the challenges women face in finding reliable and empathetic resources, particularly concerning menstruation, PCOD, PCOS, Breast health, LunaCare offers a safe space for users to get their questions answered and receive helpful guidance.  The chatbot leverages natural language processing to deliver a friendly, informative, and supportive experience.
